@@ -29,7 +29,7 @@ function Footer(): JSX.Element {
   }
 
   return (
-    <footer className="pt-8 px-8 text-white bg-[#181717cc] w-full">
+    <footer className="pt-8 px-[5%] text-white bg-[#181717cc] w-full">
       <div className="flex lg:flex-row flex-col">
         {/* Section 1 */}
         <div className="flex-grow lg:w-1/4 w-full lg:px-[40px] px-[20px] flex flex-col">

@@ -18,6 +18,10 @@ export const links: Links[] = [
         path: "/project",
     },
     {
+        name: "Tech",
+        path: "/tech",
+    },
+    {
         name: "Achievement",
         path: "/achievement",
     },

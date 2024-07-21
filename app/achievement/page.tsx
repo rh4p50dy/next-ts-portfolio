@@ -1,6 +1,12 @@
+import CardSection from "./CardSection"
+import Heading from "./Heading"
+
 function Achievement() {
   return (
-    <div>Achievement</div>
+    <div className="lg:px-[10%] px-[5%]">
+      <Heading />
+      <CardSection />
+    </div>
   )
 }
 

@@ -17,4 +17,11 @@ interface TeamMate {
     des: string
     icons: Icons[]
 }
-export type { Links, Icons, TeamMate }
+
+interface Blog {
+    image: string
+    title: string
+    content: string
+    org: string
+}
+export type { Links, Icons, TeamMate , Blog}
