@@ -18,6 +18,10 @@ export const footLinks: Links[] = [
         path: "/achievement",
     },
     {
+        name: "Tech",
+        path: "/tech",
+    },
+    {
         name: "Contact",
         path: "/contact",
     },

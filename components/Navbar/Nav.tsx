@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { Button } from "./ui/button"
+import { Button } from "../ui/button"
 import { usePathname } from "next/navigation"
 import {Links} from '@/types/index'
 export const links: Links[] = [

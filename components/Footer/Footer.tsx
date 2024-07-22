@@ -60,10 +60,10 @@ function Footer(): JSX.Element {
               Contact
             </h1>
             <Link href="mailto:admin@minnsittpaingmhuu.tech">
-              <p className="lg:text-[16px] text-[12px] opacity-50">Mail: admin@minnsittpaingmhuu.tech</p>
+              <p className="lg:text-[16px] text-[12px] opacity-50  hover:text-accent hover:opacity-100">Mail: admin@minnsittpaingmhuu.tech</p>
             </Link>
             <Link href="tel:+959762215631">
-              <p className="lg:text-[16px] text-[12px] opacity-50">Ph: +959762215631</p>
+              <p className="lg:text-[16px] text-[12px] opacity-50 hover:text-accent hover:opacity-100">Ph: +959762215631</p>
             </Link>
           </div>
         </div>
