@@ -8,7 +8,7 @@ function Meta() {
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="language" content="English"/>
         <meta name="title" content="Minn Sitt Paing Mhuu" />
-        <meta name="description" content="I'm a 19-year-old Cyber Security student with outstanding achievements. Represented my nation in ASEAN Cyber Seagame 2023 and achieved 1st runner-up in Myanmar CyberSecurity Challenge 2023 (MSCS 2023). Explore my portfolio to see my skills in action." />
+        <meta name="description" content="I'm a 19-year-old Cyber Security student with outstanding achievements. Represented my nation in ASEAN Cyber Seagame 2023 and achieved 1st runner-up in Myanmar CyberSecurity Challenge 2023 (MSCS 2023).  Explore my portfolio to see my skills in action." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://minnsittpaingmhuu.tech" />
         <meta property="og:title" content="Minn Sitt Paing Mhuu" />
